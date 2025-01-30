@@ -1,3 +1,5 @@
+https://rakshitaecomzy.netlify.app/
+
 <<<<<<< HEAD
 
 Introduction:
@@ -31,4 +33,4 @@ This is a dynamic e-commerce web application built using ReactJS, incorporating 
 4) Context API: For managing global state like user authentication and cart data.
 5) React Router: For client-side routing to different pages in the app.
 6) API Integration: Fetching data from an external API to display product listings.
->>>>>>> 5b3e46c749dbed7a3d3220fc37c7726c4fd902b2
+
